@@ -1,0 +1,14 @@
+E:\Unity\NikoLua\Hello\1-6.4 打印正弦函数\bin\Debug\netcoreapp3.1\1-6.4 打印正弦函数.exe
+E:\Unity\NikoLua\Hello\1-6.4 打印正弦函数\bin\Debug\netcoreapp3.1\1-6.4 打印正弦函数.deps.json
+E:\Unity\NikoLua\Hello\1-6.4 打印正弦函数\bin\Debug\netcoreapp3.1\1-6.4 打印正弦函数.runtimeconfig.json
+E:\Unity\NikoLua\Hello\1-6.4 打印正弦函数\bin\Debug\netcoreapp3.1\1-6.4 打印正弦函数.runtimeconfig.dev.json
+E:\Unity\NikoLua\Hello\1-6.4 打印正弦函数\bin\Debug\netcoreapp3.1\1-6.4 打印正弦函数.dll
+E:\Unity\NikoLua\Hello\1-6.4 打印正弦函数\bin\Debug\netcoreapp3.1\1-6.4 打印正弦函数.pdb
+E:\Unity\NikoLua\Hello\1-6.4 打印正弦函数\obj\Debug\netcoreapp3.1\1-6.4 打印正弦函数.GeneratedMSBuildEditorConfig.editorconfig
+E:\Unity\NikoLua\Hello\1-6.4 打印正弦函数\obj\Debug\netcoreapp3.1\1-6.4 打印正弦函数.AssemblyInfoInputs.cache
+E:\Unity\NikoLua\Hello\1-6.4 打印正弦函数\obj\Debug\netcoreapp3.1\1-6.4 打印正弦函数.AssemblyInfo.cs
+E:\Unity\NikoLua\Hello\1-6.4 打印正弦函数\obj\Debug\netcoreapp3.1\1-6.4 打印正弦函数.csproj.CoreCompileInputs.cache
+E:\Unity\NikoLua\Hello\1-6.4 打印正弦函数\obj\Debug\netcoreapp3.1\1-6.4 打印正弦函数.dll
+E:\Unity\NikoLua\Hello\1-6.4 打印正弦函数\obj\Debug\netcoreapp3.1\1-6.4 打印正弦函数.pdb
+E:\Unity\NikoLua\Hello\1-6.4 打印正弦函数\obj\Debug\netcoreapp3.1\1-6.4 打印正弦函数.genruntimeconfig.cache
+E:\Unity\NikoLua\Hello\1-6.4 打印正弦函数\obj\Debug\netcoreapp3.1\1-6.4 打印正弦函数.csproj.AssemblyReference.cache
